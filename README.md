@@ -19,3 +19,5 @@ Prueba con una muestra artificial para analizar la capacidad de generalización 
 
 Investigación de estrategias de validación cruzada como K-Fold y LOOCV.
 
+
+Nota: las respuestas y los analisis estan en el notebok. Ademas adjuntare el PDF con las otras partes faltantes.
