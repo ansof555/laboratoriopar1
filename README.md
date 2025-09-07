@@ -1,4 +1,4 @@
-# laboratoriopar1
+# Laboratorio Parte 1
 Introducción
 
 Este laboratorio de Machine Learning (ML) y Deep Learning (DL) tiene como objetivo aplicar un flujo completo de análisis y modelado supervisado, desde la exploración inicial de datos hasta la comparación de modelos predictivos.
